@@ -11,5 +11,3 @@ Python
 
 thankyou
 
-
-Final Copy
